@@ -16278,5 +16278,13 @@
   {
     "wallet": "inj1l3j5dansrgv5mz05vs2vvx0u2e4atulhauhxg7",
     "mintlimit": 5
+  },
+  {
+    "wallet": "inj1qgcq22dca4ajdeauzndw2rajqjpwzshladk3q4",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1krprwdmq53wdut3gt7cjep76hpe9nqr244u6cf",
+    "mintlimit": 5
   }
 ]
