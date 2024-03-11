@@ -80,7 +80,7 @@ function MintDetails() {
           0.3 $INJ <i>&#40;Max 3 per wallet&#41;</i>
         </MintDetail>
         <MintDetail name="Public">0.6 $INJ</MintDetail>
-        <MintDetail name="Mint Date">15/03/2024 19.30 UTC</MintDetail>
+        <MintDetail name="Mint Date">15/03/2024 01.00 pm UTC</MintDetail>
         <MintDetail name="Marketplace">
           <a href="#">Talis Protocol</a>
         </MintDetail>
