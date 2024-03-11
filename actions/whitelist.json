@@ -16434,5 +16434,21 @@
   {
     "wallet": "inj1nzs98wvg0exn5fr9gmr8utg0mm5582ajffqkhq",
     "mintlimit": 1
-  }
+  },
+    {
+    "wallet": "inj18mh3pxygtnvwpz7yhxua7h0cuksawky5hjc0xe",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1dc8qmrs5ccmp5aswfq4k03at4l9kc6nxrgx74w",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj19wvvw7r6ufn8jgavsnmyqfyf84vade85xptmkk",
+    "mintlimit": 1
+  },
+    {
+    "wallet": "inj1xf98uj3w8a2jak80t9upvuumde4y7cpkj6pkgq",
+    "mintlimit": 1
+  } 
 ]
