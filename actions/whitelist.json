@@ -15656,7 +15656,51 @@
     "mintlimit": 5
   },
   {
-    "wallet": "inj1aaunrw5cnx9zzyuyjgwulu4xmzxgur4j7kfxux",
+    "wallet": "inj186re6pyywjaur5rzxqzsxpmty5kp2sc4k795gq",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1nd0jupt4k60rnsretl7a2wt32a43ug5z97zhw3",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1fjwuk84rwczvd7gp6yq57vtu0j4c3xluflgf3m",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1s4jaq6uup8swejav7ndg8xdjj50adfhhhew67v",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1wy4us7zyxx7vqthz0d76yah4ss26jwz92e6979",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1s7fnlh5zx6xrcss2450k7xxpexfxpj986pmk6w",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1ap4huqfc4y8hharx82h0rhyg38uuj2msw2uxyk",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj18mh3pxygtnvwpz7yhxua7h0cuksawky5hjc0xe",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1dc8qmrs5ccmp5aswfq4k03at4l9kc6nxrgx74w",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj19wvvw7r6ufn8jgavsnmyqfyf84vade85xptmkk",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1xf98uj3w8a2jak80t9upvuumde4y7cpkj6pkgq",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1nzs98wvg0exn5fr9gmr8utg0mm5582ajffqkhq",
     "mintlimit": 5
   },
   {
@@ -15692,15 +15736,15 @@
     "mintlimit": 5
   },
   {
-    "wallet": "inj1rs84qxj0s996wjnjcx0d4tx7s3lrtc97jwdf9h",
-    "mintlimit": 5
-  },
-  {
-    "wallet": "sei1ydhaepr3aahu2vx6xypn4fcd9g62ju3qtkpx8d",
+    "wallet": "inj1ecgfxgl43y5yyf3fx2shf0qjrl9tuwrrmtantf",
     "mintlimit": 5
   },
   {
     "wallet": "inj1yuu5nldshk0zeznshhydqjjysga6472x5f3u7y",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1aaunrw5cnx9zzyuyjgwulu4xmzxgur4j7kfxux",
     "mintlimit": 5
   },
   {
@@ -15720,10 +15764,114 @@
     "mintlimit": 5
   },
   {
-    "wallet": "inj1nzs98wvg0exn5fr9gmr8utg0mm5582ajffqkhq",
+    "wallet": "inj18w74vg9wdvp4t5eyyr0c4ewmyf73cg4399l2g4",
     "mintlimit": 5
   },
   {
+    "wallet": "inj1h7uz0lfh3q3nac8h0mnlj67fz2k6t0q6uaghxy",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1298rtvws7tyvapr82e3kdmnpl27a3ysp67vefq",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj16ftf4jkdmjnsr2x7fq3p058pev8epw2mzrahtd",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj10zv30s325whyvrwgk5k7y5qf7pvvz7q4dkjrvs",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1xgh579g4affrlkyfxv36hm9w6gpf5lwh59vxhj",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1y520f2dfwdy9pflqzych3zlxqc3tz7k42qk4rq",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1zndgh8g4mad5t6wr0ae7n6qzxvwpkg9x4pvf0r",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1y80h9w706t65n6pfhf7w2yfffn6g2u8dpm3t9t",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1j9azh209uvl5c33dxl0ehvavamh54lgfn24mwn",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1lm8p42075zt7m3xudk2p6x4tha8zcvpp2hg4m9",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj104t6qr69tztla6svas6z7k227qke3qlz42wh5m",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1hmenv3hkd6d0ceeqn2p5z050d99lwcnpeghxaw",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1q305hyx7dxcrkx3l2n7u8fhrlvl2unxzn3pc4v",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1px48vwg5p2fr9d5qjmhzuhdx4gsfssedgcfyue",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj13vduw28y4z0zmxzsuc8kw7vhmrmqz050kpmmzf",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1tu93eqmzdu6tuhry0j4tqea9psq79rdm6ugasn",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1a8t8l8m0mve9ns2lfzqtcmmd7l5g5w05g53zlp",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1radnf9lr2wt3wkgn4s6s67l0dr5etejrmph2wc",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1tw6uatwjepuc22rjqserdxjrqydmyn5s9q95ys",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1qddmzvj6mpnakefdj37yx4p8ltvduzq42p4uh7",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1ag7r37zcpulax98fttnwpw64llhjtt64ffntnt",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1eavzawvtu57zzhnf745g3676f26f0mv8yt2xaq",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1reh0nv0s3vhahu2wnfee5er4mdggunqjj60jmn",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1acdtgn62nkh34ryzujzqp0m46gnzrku4uddp40",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj199e3tyyazmtagap3jlsdpv0tx6yrj3kf4a55k3",
+    "mintlimit": 5
+  },
+  {
+    "wallet": "inj1r35twz3smeeycsn4ugnd3w0l5h2lxe44ptuu4w",
+    "mintlimit": 5
+  },
+    {
     "wallet": "inj1ry24tsvft7kntrp8ypxg0acmzfze9733tlzdaa",
     "mintlimit": 1
   },
@@ -15949,7 +16097,7 @@
   },
   {
     "wallet": "inj1c8xuh9mpmjxyqasx5ctqk3t5t3ejxl0h7x2xec",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1ma0whxmtvdeecytfdduw6g4p9suphgz2e0yat8",
@@ -15965,7 +16113,7 @@
   },
   {
     "wallet": "inj1pcx6lvdarxhk4rmmvjrn2cxzltvs9xsw3un56n",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1fu3x76tckdmr479vfyucej2qdpns38h7yyvaql",
@@ -16073,7 +16221,7 @@
   },
   {
     "wallet": "inj1tsxu3judug8us8f3ax5c2q89l5pahluxkavf2u",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1pteajl8qd66rce2s70cu5uxj6nqvv489mqfrda",
@@ -16089,7 +16237,7 @@
   },
   {
     "wallet": "inj1kp3g8pepw7dny5lhn0hl6q4dum8h4uu8pq0xus",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1djclnjpkgxawxmn62uc2jg69kessfaxvlj6vgu",
@@ -16113,7 +16261,7 @@
   },
   {
     "wallet": "inj1efkgxmhx64a5ezyc8a7pwwcvegztqgqcgyfr4p",
-    "mintlimit": 2
+    "mintlimit": 1
   },
   {
     "wallet": "inj18p663hn64tyyaqyrshwmj6s722qhk7ct0nyc7c",
@@ -16141,7 +16289,7 @@
   },
   {
     "wallet": "inj1gdd3s5m7fjl9tg88sfmlsxr0xc9ldqev0zcw59",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1ql2xse86d5d9wkntcadpn84jca7ukae7r8jyfw",
@@ -16209,7 +16357,7 @@
   },
   {
     "wallet": "inj1qwspkc6mj740qvxcv6hc0xuvulm0uylz4y423q",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj19qu3c30f35numrsjmgpcp98qm08whkm2utneza",
@@ -16273,7 +16421,7 @@
   },
   {
     "wallet": "inj1u4njq0fcqu9czthg4v8up0yvcvuafwruxljaa5",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1qmv2mmc0jszdqr9agd88g3ylhezyyd34es8kj2",
@@ -16313,7 +16461,7 @@
   },
   {
     "wallet": "inj1jd9sen9vpv3z6elxynyfuwl7nn8z99dtwhce8w",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1tstf4nexzs7czu24r45al0nhcvc96uazvj3qa6",
@@ -16337,7 +16485,7 @@
   },
   {
     "wallet": "inj10fpz2smkqw6yfsap0akpxk5nm83gc9een9flp6",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj15qrdnt6eyjx59g9d9hd8a86jtmx9q2d3hrt6lk",
@@ -16345,7 +16493,7 @@
   },
   {
     "wallet": "inj1qqyjyz383kgatklakhflw48n5mvww8p204zudk",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1mwv4x6lw9jjl6k7euz4ch3jv0n7qg3g9f45eez",
@@ -16368,12 +16516,64 @@
     "mintlimit": 1
   },
   {
-    "wallet": "inj1aaunrw5cnx9zzyuyjgwulu4xmzxgur4j7kfxux",
+    "wallet": "inj186re6pyywjaur5rzxqzsxpmty5kp2sc4k795gq",
     "mintlimit": 2
   },
   {
-    "wallet": "inj1d93xs54fqqmull7vwn899ypaamrmgx5fqd7hxz",
+    "wallet": "inj1nd0jupt4k60rnsretl7a2wt32a43ug5z97zhw3",
+    "mintlimit": 2
+  },
+  {
+    "wallet": "inj1fjwuk84rwczvd7gp6yq57vtu0j4c3xluflgf3m",
+    "mintlimit": 2
+  },
+  {
+    "wallet": "inj13qj7xe7pdv80u3av95vqtp70s9vhdthjf8uq86",
     "mintlimit": 1
+  },
+  {
+    "wallet": "inj1s4jaq6uup8swejav7ndg8xdjj50adfhhhew67v",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1vyue9mqeqc7lqhwp4rcdyfedwka3kltfwkz6vv",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1wy4us7zyxx7vqthz0d76yah4ss26jwz92e6979",
+    "mintlimit": 2
+  },
+  {
+    "wallet": "inj1s7fnlh5zx6xrcss2450k7xxpexfxpj986pmk6w",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1ap4huqfc4y8hharx82h0rhyg38uuj2msw2uxyk",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj18mh3pxygtnvwpz7yhxua7h0cuksawky5hjc0xe",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1dc8qmrs5ccmp5aswfq4k03at4l9kc6nxrgx74w",
+    "mintlimit": 2
+  },
+  {
+    "wallet": "inj19wvvw7r6ufn8jgavsnmyqfyf84vade85xptmkk",
+    "mintlimit": 2
+  },
+  {
+    "wallet": "inj1xf98uj3w8a2jak80t9upvuumde4y7cpkj6pkgq",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1nzs98wvg0exn5fr9gmr8utg0mm5582ajffqkhq",
+    "mintlimit": 1
+  },
+  {
+    "wallet": "inj1d93xs54fqqmull7vwn899ypaamrmgx5fqd7hxz",
+    "mintlimit": 2
   },
   {
     "wallet": "inj16nllxz88uaykq6skhpnzf4qn9q5w5hh0fg8zhz",
@@ -16385,7 +16585,7 @@
   },
   {
     "wallet": "inj1wfllr2svakcvw7kj5cghkw7w7kcpjquhc7xrjn",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj18ev5nzyd9rk6646zfhk8pqs8k2gtp5guk3mj23",
@@ -16397,23 +16597,23 @@
   },
   {
     "wallet": "inj1fkrf60wrch5v6406d5hryy0wcnvty53e6wtxja",
-    "mintlimit": 1
+    "mintlimit": 2
   },
   {
     "wallet": "inj1hnpffvuv8c7azx3mgl273k9qz94nxty05vudlq",
     "mintlimit": 1
   },
   {
-    "wallet": "inj1rs84qxj0s996wjnjcx0d4tx7s3lrtc97jwdf9h",
+    "wallet": "inj1ecgfxgl43y5yyf3fx2shf0qjrl9tuwrrmtantf",
     "mintlimit": 1
-  },
-  {
-    "wallet": "sei1ydhaepr3aahu2vx6xypn4fcd9g62ju3qtkpx8d",
-    "mintlimit": 2
   },
   {
     "wallet": "inj1yuu5nldshk0zeznshhydqjjysga6472x5f3u7y",
     "mintlimit": 1
+  },
+  {
+    "wallet": "inj1aaunrw5cnx9zzyuyjgwulu4xmzxgur4j7kfxux",
+    "mintlimit": 2
   },
   {
     "wallet": "inj19v0sqtjvre67lza88sveracqqwfp4zdljupqzl",
@@ -16432,23 +16632,19 @@
     "mintlimit": 2
   },
   {
-    "wallet": "inj1nzs98wvg0exn5fr9gmr8utg0mm5582ajffqkhq",
-    "mintlimit": 1
-  },
-    {
-    "wallet": "inj18mh3pxygtnvwpz7yhxua7h0cuksawky5hjc0xe",
+    "wallet": "inj1ag7r37zcpulax98fttnwpw64llhjtt64ffntnt",
     "mintlimit": 1
   },
   {
-    "wallet": "inj1dc8qmrs5ccmp5aswfq4k03at4l9kc6nxrgx74w",
+    "wallet": "inj1reh0nv0s3vhahu2wnfee5er4mdggunqjj60jmn",
     "mintlimit": 1
   },
   {
-    "wallet": "inj19wvvw7r6ufn8jgavsnmyqfyf84vade85xptmkk",
-    "mintlimit": 1
+    "wallet": "inj199e3tyyazmtagap3jlsdpv0tx6yrj3kf4a55k3",
+    "mintlimit": 2
   },
-    {
-    "wallet": "inj1xf98uj3w8a2jak80t9upvuumde4y7cpkj6pkgq",
-    "mintlimit": 1
-  } 
+  {
+    "wallet": "inj1r35twz3smeeycsn4ugnd3w0l5h2lxe44ptuu4w",
+    "mintlimit": 5
+  }
 ]
