@@ -16646,5 +16646,9 @@
   {
     "wallet": "inj1r35twz3smeeycsn4ugnd3w0l5h2lxe44ptuu4w",
     "mintlimit": 5
+  },
+    {
+    "wallet": "inj13jqnuwwf0ddtvvf8tk9nhgvav47fwz99z025vf",
+    "mintlimit": 5
   }
 ]
